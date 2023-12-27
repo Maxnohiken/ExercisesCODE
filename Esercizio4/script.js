@@ -3,4 +3,4 @@ function DelateParagraph (){
     ParagrafoDaEliminare.remove()
 }
 
-document.addEventListener ('DOMContentLoaded', DelateParagraph)
+document.addEventListener ('keydown', DelateParagraph)
