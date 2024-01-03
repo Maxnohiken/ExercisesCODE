@@ -2,7 +2,7 @@ const Checkbox = document.getElementById('checkbox');
 
 function OnClick() {
   const Contenuto = document.getElementById('opzione');
-  if (Contenuto.style.display === "flex" ) {
+  if (Contenuto.style.display === "flex" || Contenuto.style.display === "") {
     Contenuto.style.display = "none";
   } else {
     Contenuto.style.display = "flex";

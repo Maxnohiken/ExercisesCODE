@@ -33,10 +33,10 @@ Le espressioni regolari, o regex, in JavaScript sono oggetti che rappresentano m
 24. **Cos'è l'asincronia in JavaScript?** L'asincronia in JavaScript si riferisce alla gestione di operazioni che non seguono il flusso di esecuzione sincrona del programma. In un contesto sincrono, le istruzioni vengono eseguite una dopo l'altra, e il controllo non passa alla successiva fino a quando l'attuale non è completata. In un ambiente asincrono, le operazioni possono essere avviate, ma il controllo non attende il loro completamento e continua con l'esecuzione del resto del codice.
 25. **Come funzionano async e await?** Le parole chiave async e await sono state introdotte in ECMAScript 2017 (ES8) per semplificare la gestione del codice asincrono in JavaScript, rendendolo più leggibile e simile a codice sincrono. Queste parole chiave sono spesso utilizzate insieme, ma è importante capire come funzionano separatamente.n particolare, la parola chiave async consente di dichiarare una funzione come asincrona, cioè che contiene un'operazione asincrona, mentre la parola chiave await sospende l'esecuzione di una funzione in attesa che la Promise associata ad un'attività asincrona venga risolta o rigettata.
 26. **Cosa significa "this" in JavaScript?** In JavaScript, la parola chiave this ci consente di riutilizzare funzioni in diversi contesti di esecuzione. Vale a dire che una funzione, una volta definita, può essere chiamata per oggetti diversi usando la parola chiave this e,inoltre,di identificare l'oggetto nel contesto di esecuzione corrente quando chiamiamo un metodo.
-27. Come si implementa l'ereditarietà in JavaScript?
-28. Quali sono i metodi di un array in JavaScript?
-29. Come si invia una richiesta AJAX?
-30. Quali sono i template literals in JavaScript?
+27. **Come si implementa l'ereditarietà in JavaScript?**
+28. **Quali sono i metodi di un array in JavaScript?**
+29. **Come si invia una richiesta AJAX?**
+30. **Quali sono i template literals in JavaScript?**
 31. Come si usa JSON in JavaScript?
 32. Qual è lo scopo di una funzione IIFE?
 33. Cosa sono i moduli in JavaScript?

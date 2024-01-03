@@ -1,7 +1,6 @@
 function AddCounter (){
     const Counter = document.getElementById('Counter');
-    let ValoreCounter = parseInt(Counter.textContent);
-    ValoreCounter = ValoreCounter + 1;
+    const ValoreCounter = parseInt(Counter.textContent) + 1;
     Counter.textContent = ValoreCounter;
 }
 

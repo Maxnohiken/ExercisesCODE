@@ -3,7 +3,7 @@ let intervalId
 const Timer=document.getElementById('timer')
 
 function AvviaTimer (){;
-    Timer.textContent=Secondi;
+    Timer.textContent=Secondi++;
 }
 
 function AvviaIntervallo() {
