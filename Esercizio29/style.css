@@ -1,0 +1,26 @@
+#tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black; 
+}
+
+#testo_tooltip {
+    visibility: hidden;
+    width: 120px;
+    background-color: #d3d0d0;
+    color: #000;
+    text-align: center;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    top: 125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+#tooltip:hover #testo_tooltip {
+    visibility: visible;
+    opacity: 1;
+}
