@@ -1,0 +1,19 @@
+#immagine{
+    width: 50%;
+    height: 50%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-wrap: wrap;
+}
+
+
+#sizeSlider {
+    width: 80%;
+    margin-top: 10px;
+}
