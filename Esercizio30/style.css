@@ -1,0 +1,10 @@
+#contenitore{
+    width: 300px;
+    height: 30px;
+    border: solid black;
+    background-color: transparent;
+}
+
+#scritta{
+    margin: 5px;
+}
