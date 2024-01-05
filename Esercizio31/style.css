@@ -1,0 +1,11 @@
+#bottone{
+    width: 200px;
+    height: 80px;
+    background-color: orange;
+    border-radius: 10px;
+}
+
+#numero{
+    margin-top: 17px;
+    margin-left: 15px;
+}
