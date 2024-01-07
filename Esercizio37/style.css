@@ -1,0 +1,17 @@
+body {
+    background-color: cadetblue;
+    font-family: monospace;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 160px;
+    margin: 0;
+}
+
+#game-container {
+    text-align: center;
+}
+
+input {
+    margin-bottom: 10px;
+}
