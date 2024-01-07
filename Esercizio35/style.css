@@ -1,0 +1,29 @@
+#tab{
+    background-color: #e3e0e0;
+    overflow: hidden;
+    border: solid 1px #b5b5b5;
+}
+
+button{
+    border: transparent;
+    width: 70px;
+    height: 40px;
+    margin: 0px;
+    background-color: mediumseagreen;
+}
+
+#tab button:hover {
+    background-color: #99e968;
+}
+
+#tab button.active {
+    background-color: #ccc;
+}
+
+.contenuto{
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
