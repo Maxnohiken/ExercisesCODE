@@ -1,0 +1,13 @@
+#result{
+    display: flex;
+    /* position: absolute; */
+    padding: 50px;
+    justify-content: center;
+    /* flex-wrap: wrap; */
+    align-items: flex-start;
+    flex-direction: row-reverse;
+}
+
+#immaginediversa {
+    display: block; /* o inline, a seconda delle tue esigenze */
+}
